@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '44098'
     url: http://www.gutenberg.org/2009/agents/44098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40100#Life-Histories-of-North-American-Wood-Warblers-Part-One-and-Part-Two
 gutenberg_issued: '2012-06-28'
 gutenberg_type: Text
 identifiers:
