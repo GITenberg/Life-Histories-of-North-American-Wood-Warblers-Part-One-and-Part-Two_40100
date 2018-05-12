@@ -1,0 +1,31 @@
+_repo: Life-Histories-of-North-American-Wood-Warblers-Part-One-and-Part-Two_40100
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40100-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bent, Arthur Cleveland
+    aliases:
+    - Bent, Arthur
+    - Bent, A. C. (Arthur Cleveland)
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '44098'
+    url: http://www.gutenberg.org/2009/agents/44098
+description: ''
+gutenberg_issued: '2012-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- North America'
+- !lcsh 'Passeriformes'
+- !lcsh 'Wood warblers'
+title: Life Histories of North American Wood Warblers, Part One and Part Two
+url: http://www.gutenberg.org/ebooks/40100
